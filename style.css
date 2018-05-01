@@ -1,0 +1,38 @@
+.font-style {
+    font-family: 'PT Serif', serif;
+}
+
+.max-height {
+    max-height: 100px;
+}
+
+.header-font {
+    font-family: 'Berkshire Swash', cursive;
+}
+.image-margin {
+    margin: 10px;
+}
+
+.row-height{
+    height: 175px;
+}
+
+body {
+    background-image: url('css/images/circles.png');
+    margin: 0;
+    padding: 0;
+}
+
+#about-me-container {
+    padding: 25px, 50px;
+    margin: 10px, 
+}
+
+#background-image {
+    background-image: url('css/images/circles.png');
+    height: 750px;
+}
+
+#image1 {
+        float: left;
+}
